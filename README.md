@@ -11,13 +11,13 @@ The task we would like you to complete is to create an app that makes a call for
 * The app must be written in Swift or Kotlin
 * The app must be written using Xcode 9+ for iOS or Android Studio for Android.
 * Use of suitable design patterns, and a strict separation of concerns when developing a mobile application
-* Create a library that contains the JSon service ensure this library could be used by 3rd party developers in any application that requires this type of functionality.
+* Create a library containing all functionality that could be reused by 3rd party developers in any application that requires exchange rate calculations. 3rd parties using this library should not be tightly coupled to any specific technology and should be able to consume the library in any way they choose
 * Code should be commented sufficiently to allow auto generation of library API documentation
 * Use all the data the API provided
   * Asynchronous development principals when retrieving and displaying data originating from network calls
 * UI interaction and data binding principals
   * Sound management of User Interface
-  * Should apply a theme to the UI (colours, fonts, assets) - 2 distinct styles will be required in the project to achieve this
+  * The application should be able to be re-branded (colours, fonts, assets) - 2 distinct branded targets/variants should be included in the project
   * The app should be built with a universal UI.
 * Correct use of the application life cycle, management of the UI thread
 * Incremental Commits of code and proper use/understanding of gitflow
