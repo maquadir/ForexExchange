@@ -6,6 +6,12 @@ As part of your application we invite you to complete the following coding asses
 
 The task we would like you to complete is to create an app that makes a call for international currency data (JSON) and use it to create a currency converter app that converts international currencies into Australian Dollars.  Refer to Apple's Human Interface Guidelines or Android's material design as a resource to provide a good customer experience.
 
+##GitLab Usage
+
+Please be sure to clone this repository into your own project to complete the assessment.
+Once the assessment is complete it should be shared back to madteam-devsupport with Developer access.
+It is important you retain ownership and access control of your assessment.
+
 ##Requirements:
 
 * The app must be written in Swift or Kotlin
