@@ -14,8 +14,8 @@ It is important you retain ownership and access control of your assessment.
 
 ##Requirements:
 
-* The app must be written in Swift or Kotlin
-* The app must be written using Xcode 9+ for iOS or Android Studio for Android.
+* The app must be written in Swift 
+* The app must be written using Xcode 9+ for iOS .
 * Use of suitable design patterns, and a strict separation of concerns when developing a mobile application
 * Create a library containing all functionality that could be reused by 3rd party developers in any application that requires exchange rate calculations. 3rd parties using this library should not be tightly coupled to any specific technology and should be able to consume the library in any way they choose
 * Code should be commented sufficiently to allow auto generation of library API documentation
@@ -31,7 +31,5 @@ It is important you retain ownership and access control of your assessment.
   * In-depth Tutorial - <https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow>
 * Unit tests/mocks to demonstrate the code is testable
 
-##Getting Started
-* The URL to get the fx data is ``https://www.westpac.com.au/bin/getJsonRates.wbc.fx.json``.
-* For other platforms the use of frameworks, libraries, and open-source code is allowed – but please reference their use in comments in the code. Please use package management for open source dependencies where suitable.
+
 
